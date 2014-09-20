@@ -1,13 +1,13 @@
 <?php return array (
-  'name' => '默认模板',
+  'name' => '砍柴网',
   'author' => 'PHPCMS TEAM',
-  'dirname' => 'default',
+  'dirname' => 'ikanchai',
   'homepage' => 'http://www.phpcms.cn/',
   'version' => '1.0',
   'disable' => 0,
   'file_explan' => 
   array (
-    'templates|default|content' => 
+    'templates|ikanchai|content' =>
     array (
       'category.html' => '文章频道页',
       'category_download.html' => '下载频道页',
@@ -30,7 +30,7 @@
       'show_picture.html' => '图片内容页',
       'tag.html' => 'tag',
     ),
-    'templates|default|' => 
+    'templates|ikanchai|' =>
     array (
       'announce' => '公告',
       'comment' => '评论',
@@ -48,7 +48,7 @@
       'wap' => '手机门户',
       'yp' => '黄页模板',
     ),
-    'templates|default|vote' => 
+    'templates|ikanchai|vote' =>
     array (
       'index.html' => '',
       'list_new.html' => '列表页',
@@ -59,13 +59,13 @@
       'vote_tp_2.html' => '新闻页投票模版',
       'vote_tp_3.html' => '首页投票模版',
     ),
-    'templates|default|link' => 
+    'templates|ikanchai|link' =>
     array (
       'index.html' => '',
       'list_type.html' => '分类页',
       'register.html' => '申请页',
     ),
-    'templates|default|special' => 
+    'templates|ikanchai|special' =>
     array (
       'api_picture.html' => '组图',
       'comment.html' => '专题首页评论页',
@@ -75,7 +75,7 @@
       'show.html' => '内容页',
       'special_list.html' => '专题列表',
     ),
-    'templates|default|poster' => 
+    'templates|ikanchai|poster' =>
     array (
       'banner.html' => '矩形横幅',
       'couplet.html' => '对联广告',
@@ -86,11 +86,11 @@
       'test.html' => '',
       'text.html' => '文字广告',
     ),
-    'templates|default|announce' => 
+    'templates|ikanchai|announce' =>
     array (
       'show.html' => '内容页',
     ),
-    'templates|default|wap' => 
+    'templates|ikanchai|wap' =>
     array (
       'big_image.html' => '显示大图模板',
       'category.html' => '频道页模板',
@@ -104,14 +104,14 @@
       'min_header.html' => '小头部模板',
       'show.html' => '内容显示页模板',
     ),
-    'templates|default|pay' => 
+    'templates|ikanchai|pay' =>
     array (
       'deposit.html' => '支付页模板',
       'pay_list.html' => '支付记录页模板',
       'payment_cofirm.html' => '支付确认页模板',
       'spend_list.html' => '消费记录页模板',
     ),
-    'templates|default|message' => 
+    'templates|ikanchai|message' =>
     array (
       'group.html' => '系统消息',
       'inbox.html' => '收件箱',
@@ -121,7 +121,7 @@
       'read_only.html' => '已经发消息',
       'send.html' => '写消息',
     ),
-    'templates|default|member' => 
+    'templates|ikanchai|member' =>
     array (
       'account_manage.html' => '会员管理',
       'account_manage_avatar.html' => '头像管理',
@@ -145,28 +145,28 @@
       'protocol.html' => '注册协议',
       'register.html' => '注册页面',
     ),
-    'templates|default|phpsso' => 
+    'templates|ikanchai|phpsso' =>
     array (
       'index.html' => '首页',
     ),
-    'templates|default|search' => 
+    'templates|ikanchai|search' =>
     array (
       'footer.html' => '页尾',
       'header.html' => '页头',
       'index.html' => '首页',
       'list.html' => '列表页',
     ),
-    'templates|default|formguide' => 
+    'templates|ikanchai|formguide' =>
     array (
       'index.html' => '表单列表页模板',
       'show.html' => '表单详情页模板',
       'show_js.html' => '表单js调用模板',
     ),
-    'templates|default|mood' => 
+    'templates|ikanchai|mood' =>
     array (
       'index.html' => '新闻心情',
     ),
-    'templates|default|yp' => 
+    'templates|ikanchai|yp' =>
     array (
       'com_default' => '企业默认模板',
       'index.html' => '黄页首页模板',
@@ -177,12 +177,12 @@
       'show.html' => '',
       'show_news.html' => '',
     ),
-    'templates|default|yp|com_default' => 
+    'templates|ikanchai|yp|com_default' =>
     array (
       'index.html' => '公司首页模板',
       'style' => '样式文件夹',
     ),
-    'templates|default|comment' => 
+    'templates|ikanchai|comment' =>
     array (
       'show_list.html' => '内容页评论列表',
       'list.html' => '评论列表',
